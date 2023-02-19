@@ -1,0 +1,18 @@
+.todo-list{
+    list-style: none;
+    display: flex;align-items: center;
+}
+.list{
+    width: 73%;
+    margin: 10px 0;
+    height: 28px;
+    text-align: center;
+    background: rgb(240, 221, 146);
+    color:rgba(7, 120, 82, 0.749);
+    font-weight: 900;
+}
+.del-ed{
+    padding: 6px;
+    background: rgba(242, 225, 155, 0.861);
+
+}

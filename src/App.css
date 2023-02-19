@@ -1,0 +1,16 @@
+.container {
+  max-width: 1300px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(57, 170, 223, 0.354);
+}
+.wrapper {
+  width: 300px;
+  /* height: 450px; */
+  padding: 20px 30px;
+  background: rgba(97, 215, 12, 0.699);
+  border-radius: 20px;
+  box-shadow:    10px 10px 10px 10px rgba(217, 129, 217, 0.573);
+}

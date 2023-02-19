@@ -1,0 +1,25 @@
+.input{
+    width: 80%;
+    height: 30px;
+    background: rgba(82, 146, 202, 0.658);
+    box-shadow:0 5px 10px 5px rgba(242, 220, 96, 0.596);
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgba(151, 5, 5, 0.776);
+    font-weight: 800;
+
+}
+.input::placeholder{
+    text-align: center;
+    color: aqua;
+    font-weight: 700;
+    font-size: 15px;
+}
+.btn{
+    padding: 8px;
+    background: rgba(230, 230, 100, 0.534);
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 13.5px;
+    color: rgba(229, 127, 17, 0.936);
+}
